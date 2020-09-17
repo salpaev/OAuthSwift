@@ -153,6 +153,8 @@
 			isa = PBXBuildRule;
 			compilerSpec = com.apple.xcode.tools.swift.compiler;
 			fileType = sourcecode.swift;
+			inputFiles = (
+			);
 			isEditable = 1;
 			outputFiles = (
 			);
@@ -789,6 +791,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				ja,
 				Base,
